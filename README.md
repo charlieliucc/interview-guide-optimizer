@@ -54,12 +54,20 @@
 
 ## 安装方法
 
-### 方式一：通过 Skill Manager 导入
+### 方式一：一句话安装
 
-1. 打开 WorkBuddy
-2. 进入**设置 → Skills**
-3. 点击**导入技能**，选择本仓库中的 `SKILL.md` 文件
-4. 导入后立即生效
+在 WorkBuddy 对话中直接发送：
+
+```
+安装技能 https://github.com/charlieliucc/interview-guide-optimizer
+```
+
+安装完成后立即生效。
+
+> **使用知识库功能前**，需先完成以下准备：
+> 1. 在 WorkBuddy 中开通 **ima 知识库**授权（设置 → 连接器 → ima知识库 → 开启）
+> 2. 将相关研究文献（PDF/论文全文）上传至你的 ima 知识库
+> 3. 安装完成后，在对话中提到"参考知识库"即可触发知识库灵感推荐功能
 
 ### 方式二：手动安装
 
@@ -203,12 +211,20 @@ When the user explicitly asks to reference a knowledge base, the skill:
 
 ## Installation
 
-### Method 1: Import via Skill Manager
+### Method 1: One-Line Install
 
-1. Open WorkBuddy
-2. Go to **Settings → Skills**
-3. Click **Import Skill** and select the `SKILL.md` file from this repository
-4. The skill takes effect immediately after import
+In a WorkBuddy conversation, simply send:
+
+```
+install skill https://github.com/charlieliucc/interview-guide-optimizer
+```
+
+The skill takes effect immediately after installation.
+
+> **Before using the knowledge base feature**, complete the following setup:
+> 1. Enable **ima Knowledge Base** authorization in WorkBuddy (Settings → Connectors → ima Knowledge Base → Enable)
+> 2. Upload relevant research papers (PDF/full text) to your ima knowledge base
+> 3. Once done, mention "参考知识库" (reference knowledge base) in your conversation to trigger the knowledge base inspiration feature
 
 ### Method 2: Manual Install
 
